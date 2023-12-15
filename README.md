@@ -2,6 +2,9 @@
 <h1 align="center">Hi, I'm Aishwarya Nikam 👋</h1>
 <h3 align="center">I'm a Full stack Developer 👩🏻‍💻, Gamer 🎮 , Technophile 💻</h3>
 
+<br/>
+<br/>
+
 
 ## Connect with me  
 <div align="left">
@@ -25,11 +28,8 @@
 </div>  
 <br/>  
 
-<hr style="color-black">
 
 ## My Skills 
-<br/>
-
 ### Frontend
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
