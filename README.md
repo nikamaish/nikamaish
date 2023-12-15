@@ -25,9 +25,10 @@
 </div>  
 <br/>  
 
-</hr>
+<hr>
 
-### My Skills 
+## My Skills 
+<br/>
 
 ### Frontend
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
