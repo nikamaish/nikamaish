@@ -77,7 +77,7 @@
 
 
 
-<div style="display: flex; justify-content: space-between; margin-bottom: 10px; flex-wrap: nowrap;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px; flex-wrap: wrap; gap: 10px;">
 
   <div>
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikamaish&show_icons=true&locale=en&layout=compact&theme=dark" alt="nikamaish" /></p>
@@ -88,5 +88,6 @@
   </div>
 
 </div>
+
 
 
