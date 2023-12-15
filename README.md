@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Aishwarya Nikam 👋</h1>
-<h3 align="center">I'm a Full stack Developer 👩🏻‍💻, Gamer 🎮 , Technophile 💻</h3>
+<h3 align="center">I'm a Full Stack Developer 👩🏻‍💻, Gamer 🎮 , Technophile 💻</h3>
 
 <br/>
 <br/>
@@ -77,6 +77,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikamaish&show_icons=true&locale=en&layout=compact" alt="nikamaish" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikamaish&show_icons=true&locale=en&layout=compact&theme=dark" alt="nikamaish" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikamaish&" alt="nikamaish" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikamaish&theme=black-ice" alt="nikamaish" /></p>
+
