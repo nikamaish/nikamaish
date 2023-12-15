@@ -77,12 +77,12 @@
 
 
 
-<div style="display: flex; justify-content: space-between; margin-bottom:10px">
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px; flex-wrap: nowrap;">
 
   <div>
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikamaish&show_icons=true&locale=en&layout=compact&theme=dark" alt="nikamaish" /></p>
   </div>
-<br/>
+
   <div>
     <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nikamaish&theme=black-ice" alt="nikamaish" /></p>
   </div>
