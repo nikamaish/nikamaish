@@ -27,6 +27,7 @@
 
 </hr>
 
+### My Skills 
 
 ### Frontend
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -76,7 +77,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikamaish&show_icons=true&locale=en&layout=compact" alt="nikamaish" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikamaish&show_icons=true&locale=en" alt="nikamaish" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikamaish&" alt="nikamaish" /></p>
