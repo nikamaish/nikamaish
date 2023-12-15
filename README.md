@@ -25,7 +25,7 @@
 </div>  
 <br/>  
 
-<hr>
+<hr style="color-black">
 
 ## My Skills 
 <br/>
