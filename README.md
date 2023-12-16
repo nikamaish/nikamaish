@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Aishwarya Nikam 👋</h1>
-<h3 align="center">I'm a Full Stack Developer 👩🏻‍💻, Gamer 🎮 , Technophile 💻</h3>
+<h3 align="center">I'm Full Stack Developer 👩🏻‍💻 , Gamer 🎮 , Technophile 💻</h3>
 
 <br/>
 <br/>
