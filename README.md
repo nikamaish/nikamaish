@@ -41,8 +41,8 @@
 <br/>
 
 ### Backend
-<img align="left" alt="Bootstrap" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
-<img align="left" alt="Bootstrap"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:10px;" width="90px" />
+<img align="left" alt="Bootstrap" width="90px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
+<img align="left" alt="Bootstrap"  style="padding-right:10px;" width="90px"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
 
 <br/>
 
