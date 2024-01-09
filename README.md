@@ -2,6 +2,9 @@
 <h1 align="center">Hi, I'm Aishwarya Nikam 👋</h1>
 <h3 align="center">I'm Full Stack Developer 👩🏻‍💻 , Gamer 🎮 , Technophile 💻</h3>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikamaish&label=Profile%20views&color=0e75b6&style=flat" alt="nikamaish" /> </p>
+
 <br/>
 <br/>
 
