@@ -2,7 +2,8 @@
 <h1 align="center">Hi, I'm Aishwarya Nikam 👋</h1>
 <!-- <h3 align="center">I'm Full Stack Developer 👩🏻‍💻 , Gamer 🎮 , Technophile 💻</h3> -->
 
-<h3 align="center"> 𝐈'𝐦 𝐚𝐧 𝐈𝐓 𝐮𝐧𝐝𝐞𝐫𝐠𝐫𝐚𝐝 𝐚𝐭 𝐏𝐄𝐒 𝐌𝐨𝐝𝐞𝐫𝐧 𝐂𝐨𝐥𝐥𝐞𝐠𝐞 𝐨𝐟 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐏𝐮𝐧𝐞, 𝐈'𝐦 𝐚 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐚𝐧𝐝, 𝐞𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 𝐚𝐛𝐨𝐮𝐭 𝐛𝐥𝐨𝐜𝐤𝐜𝐡𝐚𝐢𝐧 𝐚𝐧𝐝 𝐰𝐞𝐛𝟑 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬, 𝐚𝐩𝐚𝐫𝐭 𝐟𝐫𝐨𝐦 𝐭𝐡𝐚𝐭 𝐈'𝐦 𝐚 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐠𝐚𝐦𝐞𝐫, 𝐥𝐨𝐯𝐞𝐬 𝐭𝐨 𝐢𝐧𝐭𝐞𝐫𝐚𝐜𝐭 𝐰𝐢𝐭𝐡 𝐧𝐞𝐰 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬. </h3>
+<h3 align="center"> I'm an IT undergrad specializing in MERN Stack Development, enthusiastic about Blockchain and Web3 technologies, and like to interact with new technologies. Apart from that, I'm a passionate
+Gamer. </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikamaish&label=Profile%20views&color=0e75b6&style=flat" alt="nikamaish" /> </p>
