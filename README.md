@@ -5,7 +5,7 @@
 <h3 align="center"> I'm an IT undergrad specializing in MERN Stack Development, enthusiastic about Blockchain and Web3 technologies. I like to stay updated on emerging technologies, Apart from that, I'm a passionate Gamer. </h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikamaish&label=Profile%20views&color=0e75b6&style=flat" alt="nikamaish" /> </p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=nikamaish&theme=dark)](https://git.io/streak-stats" /></p>
 
 
 ## Connect with me  
