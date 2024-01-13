@@ -86,7 +86,7 @@
   </div>
 
   <div>
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=nikamaish&theme=dark" /></p>
+  <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=nikamaish&theme=dark" /></p>
 
   </div>
 
