@@ -20,13 +20,19 @@
  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /> 
  </a> -->
 
-<a href="https://linkedin.com/in/𝐀𝐢𝐬𝐡𝐰𝐚𝐫𝐲𝐚-𝐍𝐢𝐤𝐚𝐦-8175221b5/" target="_blank">
+
+ <a href="https://linkedin.com/in/𝐀𝐢𝐬𝐡𝐰𝐚𝐫𝐲𝐚-𝐍𝐢𝐤𝐚𝐦-8175221b5/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://leetcode.com/aishnikam31" target="_blank">
 <img src=https://img.shields.io/badge/leetcode-%23000000.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
 </a>  
+
+<a href="https://medium.com/@aishTechie" target="_blank">
+  <img src="https://img.shields.io/badge/medium-%230077B5.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="medium" style="margin-bottom: 5px;" /> 
+</a>
+
 </div>  
 <br/>  
 
