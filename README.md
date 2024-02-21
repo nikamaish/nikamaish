@@ -50,8 +50,10 @@
 
 ### Backend
 
-<img align="left" alt="Express" width="50px" style="padding-right:10px;" src="https://cdn.simpleicons.org/nodedotjs/339933" />
+<img align="left" alt="Node" width="50px" style="padding-right:10px;" src="https://cdn.simpleicons.org/nodedotjs/339933" />
 <img align="left" alt="Express" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="Socket.io" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
+
 <br/>
 <br/>
 
