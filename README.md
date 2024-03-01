@@ -79,8 +79,8 @@
 <br/>
 <br/>
 
-### Visualization
-<!--<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="70px" style="padding-right:10px;"/> </a>
+<!--### Visualization
+<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="70px" style="padding-right:10px;"/> </a>
 <br/>
 <br/>
 -->
