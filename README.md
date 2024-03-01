@@ -80,9 +80,10 @@
 <br/>
 
 ### Visualization
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="70px" style="padding-right:10px;"/> </a>
+<!--<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="70px" style="padding-right:10px;"/> </a>
 <br/>
 <br/>
+-->
 
 ### Tools
 <img align="left" alt="PostMan" width="50px" style="padding-right:10px;"  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"/>
