@@ -9,6 +9,14 @@
 
 
 ## Connect with me  
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="linkedin.com/in/𝐀𝐢𝐬𝐡𝐰𝐚𝐫𝐲𝐚-𝐍𝐢𝐤𝐚𝐦-8175221b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhananjaykuber" height="30" width="40" /></a>
+<a href="https://leetcode.com/aishnikam31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhananjaykuber" height="30" width="40" /></a>
+</p>
+
+
 <div align="left">
 
 <a href="mailto:aishnikam31@gmail.com" target="_blank">
