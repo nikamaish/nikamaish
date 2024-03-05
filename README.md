@@ -3,6 +3,7 @@
 <!-- <h3 align="center">I'm Full Stack Developer 👩🏻‍💻 , Gamer 🎮 , Technophile 💻</h3> -->
 
 <h3 align="center"> I'm an IT undergrad specializing in MERN Stack Web Development, enthusiastic about Blockchain and Web3 technologies, like to stay updated on emerging technologies, Apart from that, I'm a passionate Gamer. </h3>
+<br/>  
 
 
 
