@@ -2,12 +2,14 @@
 <h1 align="center">  Hi, I'm Aishwarya Nikam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 	 </h1>
 <!-- <h3 align="center">I'm Full Stack Developer 👩🏻‍💻 , Gamer 🎮 , Technophile 💻</h3> -->
 
-<h3 align="center"> I'm an IT undergrad specializing in MERN Stack Web Development, enthusiastic about Blockchain and Web3 technologies, like to stay updated on emerging technologies, Apart from that, I'm a passionate Gamer. </h3>
+<h3 align="center"> I'm an IT undergrad specializing in MERN Stack Web Development, enthusiastic about Blockchain and Web3 technologies, like to stay updated on emerging technologies. Apart from that, I'm a passionate Gamer. </h3>
 <br/>  
 
+- 🌱 I’m currently learning **Redis, React and Websocket**
 
+- 💬 Ask me about **Web development, Video Games**
 
-
+- 📫 How to reach me **aishkiaish14@gmail.com**
 
 ## Connect with me  
 
@@ -75,8 +77,6 @@
 <!-- ### Library
 <img align="left" alt="NPM" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 -->
-<br/>
-<br/>
 
 <!--### Visualization
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="70px" style="padding-right:10px;"/> </a>
