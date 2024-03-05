@@ -10,25 +10,14 @@
 
 ## Connect with me  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="linkedin.com/in/𝐀𝐢𝐬𝐡𝐰𝐚𝐫𝐲𝐚-𝐍𝐢𝐤𝐚𝐦-8175221b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aish" height="30" width="40" /></a>
-<a href="https://leetcode.com/aishnikam31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aish" height="30" width="40" /></a>
-<a href="https://medium.com/@aishTechie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="aish" height="30" width="40" /></a>
-</p>
-
-
 <div align="left">
-
-<a href="mailto:aishnikam31@gmail.com" target="_blank">
+<!-- <a href="mailto:aishnikam31@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
+
 </a>
-
-
-<!--<a href="https://github.com/nikamaish" target="_blank">
+<a href="https://github.com/nikamaish" target="_blank">
  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /> 
- </a> -->
-
+</a> -->
 
  <a href="https://linkedin.com/in/𝐀𝐢𝐬𝐡𝐰𝐚𝐫𝐲𝐚-𝐍𝐢𝐤𝐚𝐦-8175221b5/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -46,7 +35,7 @@
 <br/>  
 
 
-## My Skills 
+## Tech Stack 
 ### Frontend
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
