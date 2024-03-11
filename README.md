@@ -89,7 +89,7 @@
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="VS Code" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Firebase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
-<img align="left" alt="Figma" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" />
+<!-- <img align="left" alt="Figma" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" /> -->
 <img align="left" alt="IntelliJ Idea" width="50px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=idea" />
 <img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://cdn.simpleicons.org/docker/2496ED" />
 
