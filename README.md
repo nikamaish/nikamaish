@@ -5,13 +5,6 @@
 <h3 align="center"> Leveling up in life's game, with a wand in one hand 🧙🏻‍♀️ and a controller 🎮 in the other, I navigate both Hogwarts and virtual realms with equal passion. </h3>
 <br/>  
 
-<p style="text-align:center;"><a href="https://giphy.com/gifs/hyperxgaming-gaming-gamer-pc-setup-58D27uRRFUOfOw4xVn">via GIPHY</a></p>
-
-
-
-
-<br/>  
-
 - 🌱 I’m currently learning **Redis, React and Websocket**
 
 - 💬 Ask me about **Web development, Video Games**
