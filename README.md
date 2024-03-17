@@ -6,14 +6,8 @@
     <div style="width:50%;">
         <h3>Leveling up in life's game, with a wand in one hand 🧙🏻‍♀️ and a controller 🎮 in the other, I navigate both Hogwarts and virtual realms with equal passion.</h3>
     </div>
-    <div style="width:50%;">
-        <div style="width:100%;height:0;padding-bottom:56%;position:relative;">
-            <iframe src="https://giphy.com/embed/58D27uRRFUOfOw4xVn" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-        </div>
-        <p style="text-align: center;"><a href="https://giphy.com/gifs/hyperxgaming-gaming-gamer-pc-setup-58D27uRRFUOfOw4xVn">via GIPHY</a></p>
-    </div>
 </div>
-
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/58D27uRRFUOfOw4xVn" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hyperxgaming-gaming-gamer-pc-setup-58D27uRRFUOfOw4xVn">via GIPHY</a></p>
 <br/>  
 
 - 🌱 I’m currently learning **Redis, React and Websocket**
