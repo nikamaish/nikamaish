@@ -2,7 +2,7 @@
 <h1 align="center">  Hi, I'm Aishwarya Nikam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 	 </h1>
 <!-- <h3 align="center">I'm Full Stack Developer 👩🏻‍💻 , Gamer 🎮 , Technophile 💻</h3> -->
 
-<h3 align="center"> Leveling up in life's game, with a wand in one hand 🧙🏻‍♀️ and a controller 🎮 in the other, I navigate both Hogwarts and virtual realms with equal passion. </h3>
+<h3 align="center"> Leveling up in life's game, with a mouse 🖱️ in one hand and a controller 🎮 in the other, I navigate both Hogwarts and virtual realms with equal passion. </h3>
 <br/>  
 
 - 🌱 I’m currently learning **Redis, React and Websocket**
