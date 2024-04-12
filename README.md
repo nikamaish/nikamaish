@@ -5,7 +5,7 @@
 <h3 align="center"> I'm like a wizard 🧙🏻‍♀️ , but instead of potions, I whip up code. And when I'm not casting spells on the keyboard, I'm slaying dragons in the gaming realm 🎮. Double life, double fun! </h3>
 <br/>  
 
-- 🌱 I’m currently learning **Redis, React and Websocket**
+- 🌱 I’m currently learning **Redis and Websocket**
 
 - 💬 Ask me about **Web development, Video Games**
 
