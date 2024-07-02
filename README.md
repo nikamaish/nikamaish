@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Redis and Websocket**
 
-- 💬 Ask me about **Web development, Video Games**
+- 💬 Ask me about **Web Development and Video Games**
 
 - 📫 How to reach me **aishkiaish14@gmail.com**
 
