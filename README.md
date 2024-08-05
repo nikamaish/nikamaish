@@ -2,7 +2,7 @@
 <h1 align="center">  Hi, I'm Aishwarya Nikam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 	 </h1>
 <!-- <h3 align="center">I'm Full Stack Developer 👩🏻‍💻 , Gamer 🎮 , Technophile 💻</h3> -->
 
-<h3 align="center"> I'm like a wizard 🧙🏻‍♀️ , but instead of potions, I whip up code. And when I'm not casting spells on the keyboard, I'm slaying dragons in the gaming realm 🎮 .
+<h3 align="center"> I'm like a wizard 🧙🏻‍♀️ , but instead of potions, I whip up code. And when I'm not casting spells on the keyboard, I'm slaying dragons in the gaming realm 🎮
 <br/> Double life, double fun! </h3>
 <br/>  
 
