@@ -6,7 +6,7 @@
 <br/> Double life, double fun! </h3>
 <br/>  
 
-- 🌱 I’m currently learning **Redis and Websocket**
+- 🌱 I’m currently learning **LLM and RAG**
 
 - 💬 Ask me about **Web Development and Video Games**
 
