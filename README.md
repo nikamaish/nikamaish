@@ -6,7 +6,7 @@
 <br/> Double life, double fun! </h3>
 <br/>  
 
-- 🌱 I’m currently learning about **GenAI, LLM and RAG**
+- 🌱 I’m currently learning about **GenAI (LLM and RAG)**
 
 - 💬 Ask me about **Web Development and Video Games**
 
