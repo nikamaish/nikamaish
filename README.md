@@ -6,7 +6,7 @@
 <br/> Double life, double fun! </h3>
 <br/>  
 
-- 🌱 I’m currently learning **Java Stack**
+- 🌱 I’m currently learning **Java Stack along with Cloud Technologies**
 
 - 💬 Ask me about **Web Development and Video Games**
 
